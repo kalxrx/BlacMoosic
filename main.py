@@ -28,4 +28,4 @@ async def on_ready():
 
 keep_alive()
 TOKEN = os.environ.get("DISCORD_BOT_SECRET")
-bot.run("ODkzMDQ5MTEwNDMxNjYyMTEx.YVVyyw.leL2U4JUFnT-enLs3XmsFIg1kHE")
+bot.run("TOKEN")
